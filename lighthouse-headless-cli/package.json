@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-headless-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lighthouse-headless": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ora": "^2.0.0"
+  }
+}
